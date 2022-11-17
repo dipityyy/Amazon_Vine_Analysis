@@ -6,6 +6,4 @@ The purpose of this analysis was to determine if there is any bias towards favor
 
 
 
-# Summary 
 
-The data for Amazon Beauty shows no bias, in fact there is 
